@@ -5,9 +5,13 @@ Welcome to my GitHub repository showcasing a comprehensive Finance Data Analysis
 **Key Features:**
 
 **Primary KPIs:** Total Income, Total Expenses, and Savings for the current year and year-over-year (YoY) growth, along with Percentage breakdowns.
+
 **Secondary KPIs:** Highest and Lowest Income, Expenses, and Savings recorded over the years.
+
 **Expense Analysis:** Monthly breakdown of expenses, identifying peak spending months and seasonal variations.
+
 **Income Analysis:** Monthly breakdown of income, highlighting revenue trends and fluctuations.
+
 **Savings Focus:** Total savings as a percentage of income, showcasing financial stability and prudent money management.
 
 **Screenshots:**
